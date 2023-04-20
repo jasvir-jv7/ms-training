@@ -1,2 +1,1 @@
-property-file.name=QA
-property-file.description=My First Property File in Github for QA
+msg = Hello world - this is from config server – QA environment.
